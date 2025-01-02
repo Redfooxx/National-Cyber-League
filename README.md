@@ -11,6 +11,8 @@ The following skills are assessed:
 - Password Cracking
 - Enumeration and Eploitation
 - Web Application Security
+  
+<a href="https://github.com/Jabner98/Fall-2024-NCL-Scouting-Report/blob/main/README.md">View my NCL Scouting Report</a>
 ![image](https://github.com/user-attachments/assets/3b39ee3f-5ed6-4472-a4b5-4e99199998e8)
 
 ![image](https://github.com/user-attachments/assets/6cd7d5fd-3f60-4233-ae88-4162de9f3ff2)
