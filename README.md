@@ -16,5 +16,6 @@ The following skills are assessed:
 
 ![image](https://github.com/user-attachments/assets/d5c55db9-c5be-45b2-b485-a44c294590db)
 
-![image](https://github.com/user-attachments/assets/6cd7d5fd-3f60-4233-ae88-4162de9f3ff2)
+![image](https://github.com/user-attachments/assets/a2e48571-911f-4389-bd9f-8aebbc723395)
+
 
